@@ -9,7 +9,7 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Creapermann" alt="Creapermann" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Creapermann&show_icons=true" alt="Creapermann" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Creapermann&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 ##
 <h3 align="center">Profile Stats</h3>

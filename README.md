@@ -12,8 +12,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Creapermann&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 ##
-<h3 align="center">Profile Stats</h3>
+<h3 align="center">Profile</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creapermann&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+##### Languages I use
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 

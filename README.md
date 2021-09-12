@@ -10,7 +10,7 @@
 <h3 align="center">Github Stats</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Creapermann" alt="Creapermann" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Creapermann&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
+<br>
 
 ##
 <h3 align="center">Profile Stats</h3>
@@ -22,6 +22,8 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+<br>
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 

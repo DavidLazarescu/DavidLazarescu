@@ -13,7 +13,7 @@
 
 
 ##
-<h3 align="center">Profile</h3>
+<h3 align="center">Profile Stats</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creapermann&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ##### Languages I use
@@ -30,4 +30,7 @@
 - 📫 https://www.reddit.com/user/Creapermann
 - 📫 https://stackoverflow.com/users/12347089/creapermann
 
+##
+
+<br>
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150" align="left">

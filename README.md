@@ -1,25 +1,21 @@
-package main
+### <p align="left">Hey, welcome to my profile. 👋</p>
 
-import (
-	"fmt"
-)
+- 🔭 I’m currently studying C++
+- 🤔 I'm planning on getting into app-development, cryptography and blockchains.
+- 👯 I’m also interested in networking and making contacts in my field.
+- 💬 Ask me about anything, and im here to help out or talk.
 
-type Bio map[string]string
+##
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+<h3 align="center">Profile Stats</h3>
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Creapermann" alt="Creapermann" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Creapermann&show_icons=true" alt="Creapermann" /></p>
+
+## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
+
+- 📫 David_#0631
+- 📫 prtnprvtmail@protonmail.com
+- 📫 https://www.reddit.com/user/Creapermann
+- 📫 https://stackoverflow.com/users/12347089/creapermann

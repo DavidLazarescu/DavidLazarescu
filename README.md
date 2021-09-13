@@ -31,6 +31,8 @@
 ![git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF")
 ![github](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF")
 ![unity](https://img.shields.io/badge/-Unity-blue)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange)
+![WPF](https://img.shields.io/badge/-WPF-purple)
 
 <br>
 

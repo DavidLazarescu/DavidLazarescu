@@ -27,10 +27,11 @@
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
-- 📫 David_#0631
-- 📫 prtnprvtmail@protonmail.com
-- 📫 https://www.reddit.com/user/Creapermann
-- 📫 https://stackoverflow.com/users/12347089/creapermann
+📫 Contact me:
+- David_#0631
+- prtnprvtmail@protonmail.com
+- https://www.reddit.com/user/Creapermann
+- https://stackoverflow.com/users/12347089/creapermann
 
 ##
 

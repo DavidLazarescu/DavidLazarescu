@@ -26,8 +26,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Tools and frameworks
-- 🎮 &nbsp; Unity
-- 🔧 &nbsp; Git
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF") 
+![git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF")
+![github](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF")
+![unity](https://img.shields.io/badge/-Unity-blue)
 
 <br>
 

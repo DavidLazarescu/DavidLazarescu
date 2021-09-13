@@ -34,10 +34,10 @@
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
 📫 Contact me:
-- David_#0631
-- prtnprvtmail@protonmail.com
-- https://www.reddit.com/user/Creapermann
-- https://stackoverflow.com/users/12347089/creapermann
+- My [Discord](https://discord.com) is David_#0631
+- Or shoot me an [Email](prtnprvtmail@protonmail.com)
+- Text me on [Reddit](https://www.reddit.com/user/Creapermann)
+- And check out my [Stack Overflow](https://stackoverflow.com/users/12347089/creapermann)
 
 ##
 

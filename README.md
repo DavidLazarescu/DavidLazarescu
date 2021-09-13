@@ -16,12 +16,18 @@
 <h3 align="center">Profile Stats</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creapermann&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
+## <h3 align="center">🛠 Tech Stack</h3>
+
 ##### Languages I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+##### Tools and frameworks
+- 🎮 &nbsp; Unity
+- 🔧 &nbsp; Git
 
 <br>
 

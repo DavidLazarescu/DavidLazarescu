@@ -33,6 +33,7 @@
 ![unity](https://img.shields.io/badge/-Unity-blue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange)
 ![WPF](https://img.shields.io/badge/-WPF-purple)
+![VS19](https://img.shields.io/badge/-VS19-purple)
 
 <br>
 

@@ -13,10 +13,8 @@
 <br>
 
 ##
-<h3 align="center">Profile Stats</h3>
+<h3 align="center">🛠 Profile</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creapermann&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-## <h3 align="center">🛠 Tech Stack</h3>
 
 ##### Languages I use
 

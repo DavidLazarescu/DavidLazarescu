@@ -17,24 +17,6 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creapermann&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
-##### Languages I use
-
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
-##### Tools and frameworks
-
-![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF") 
-![git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF")
-![github](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF")
-![unity](https://img.shields.io/badge/-Unity-blue)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange)
-![WPF](https://img.shields.io/badge/-WPF-purple)
-![VS19](https://img.shields.io/badge/-VS19-purple)
-
-<br>
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
@@ -42,7 +24,6 @@
 - My [Discord](https://discord.com) is David_#0631
 - Or shoot me an [Email](mailto:prtnprvtmail@protonmail.com)
 - Text me on [Reddit](https://www.reddit.com/user/Creapermann)
-- And check out my [Stack Overflow](https://stackoverflow.com/users/12347089/creapermann)
 
 ##
 

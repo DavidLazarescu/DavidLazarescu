@@ -23,7 +23,7 @@
 📫 Contact me:
 - My [Discord](https://discord.com) is David_#0631
 - Or shoot me an [Email](mailto:prtnprvtmail@protonmail.com)
-- Text me on [Reddit](https://www.reddit.com/user/Creapermann)
+- You can also text me on [Reddit](https://www.reddit.com/user/Creapermann)
 
 ##
 

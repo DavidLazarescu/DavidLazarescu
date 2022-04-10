@@ -1,4 +1,4 @@
-### <p align="left">Hey, welcome to my profile. 👋</p>
+### <p align="left">Hey, welcome to my profile.</p>
 
 - 🔭 I’m currently working with C++
 - 🤔 I'm planning on getting into app-development, cryptography and blockchains.
@@ -9,8 +9,11 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Creapermann" alt="Creapermann" /> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Creapermann&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Creapermann&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creapermann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 ##

@@ -10,7 +10,7 @@
 <h3 align="center">Github Stats</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Creapermann" alt="Creapermann" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Creapermann&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Creapermann)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creapermann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ##

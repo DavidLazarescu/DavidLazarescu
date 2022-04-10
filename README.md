@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
-
+</br>
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 

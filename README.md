@@ -1,6 +1,6 @@
 ### <p align="left">Hey, welcome to my profile.</p>
 
-- 🔭 I’m currently working with C++
+- 🔭 I’m currently working with C++ and C#
 - 🤔 I'm planning on getting into app-development, cryptography and blockchains.
 - 👯 I’m also interested in networking and making contacts in my field.
 - 💬 Ask me about anything, im here to help out or talk.

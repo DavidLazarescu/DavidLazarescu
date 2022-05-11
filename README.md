@@ -33,7 +33,7 @@
 
 
 ## <h3 align="center">My projects</h3>
-<p>https://github.com/Etovex/Librum</p>
+<p>https://github.com/Librum-Reader</p>
 
 </br>
 

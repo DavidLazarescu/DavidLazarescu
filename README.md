@@ -1,10 +1,9 @@
 ### <p align="left">Hey, welcome to my profile.</p>
 
 - 🔨 I'm doing full stack application development
-- 🔭 I’m currently working with C++ and C#
-- 🤔 I'm planning on getting into cryptography and blockchain-development.
-- 👯 I’m also interested in networking and making contacts in my field.
-- 💬 Ask me about anything, im here to help out and talk.
+- 🤔 I’m currently working with C++, C# and Rust
+- 🔭 I'm planning on learning more about web servers and embedded devices
+- 💬 Ask me about anything, I'm always looking for new contacts in my field
 
 ##
 

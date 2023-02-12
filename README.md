@@ -8,7 +8,6 @@
 ##
 
 <h3 align="center">Github Stats</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidLazarescu" alt="DavidLazarescu" /> </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidLazarescu&theme=dark&background=000000)](https://git.io/streak-stats)
 

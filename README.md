@@ -39,9 +39,8 @@
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
 📫 Contact me:
-- My [Discord](https://discord.com) is David_#0631
+- My [Discord](https://discord.com) is m_david#0631
 - Or shoot me an [Email](mailto:prtnprvtmail@protonmail.com)
-- You can also text me on [Reddit](https://www.reddit.com/user/Creapermann)
 
 ##
 

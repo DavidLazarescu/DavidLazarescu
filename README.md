@@ -2,7 +2,7 @@
 
 - 🔨 I'm doing full stack application development
 - 🤔 I’m currently working with C++, C# and Rust
-- 🔭 I'm planning on learning more about web servers and embedded devices
+- 🔭 I'm currently learning more about cloud computing, math and embedded devices
 - 💬 Ask me about anything, I'm always looking for new contacts in my field
 
 ##

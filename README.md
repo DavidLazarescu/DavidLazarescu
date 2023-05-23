@@ -1,8 +1,8 @@
 ### <p align="left">Hey, welcome to my profile.</p>
 
 - 🔨 I'm doing full stack application development
-- 🤔 I’m currently working with C++, C# and Rust
-- 🔭 I'm currently learning more about cloud computing, math and embedded devices
+- 🤔 I’m currently working with C++ and C#
+- 🔭 I'm currently learning more about robotics, mathematics and software development
 - 💬 Ask me about anything, I'm always looking for new contacts in my field
 
 ##

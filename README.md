@@ -30,12 +30,6 @@
 </div>
 </br>
 
-
-## <h3 align="center">My projects</h3>
-<p>https://github.com/Librum-Reader</p>
-
-</br>
-
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
 📫 Contact me:
